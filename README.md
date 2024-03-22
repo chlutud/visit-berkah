@@ -1,2 +1,2 @@
-# visit-berkah
+# berkah
 visit my page
